@@ -1,5 +1,4 @@
 1- Üyelik-Kullanıcı sistemi
 2- Bu notlara uzaktan erişebilme
-3- MD formatındaki özelliklerle not ekleyebilme
-4- Link paylaşımı ile diğer kullanıcılara istediği gibi not paylaşma
-5- Kullanıcılarla paylaşılan dosyaların erişimlerini ve izinlerini ayarlama
+3- Link paylaşımı ile diğer kullanıcılara istediği gibi not paylaşma
+4- Kullanıcılarla paylaşılan dosyaların erişimlerini ve izinlerini ayarlama
