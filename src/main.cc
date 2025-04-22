@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-string note_data;
+string note_data = NULL;
 
 int main(int argc, char** argv) {
 
