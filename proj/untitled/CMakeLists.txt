@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.19)
 project(untitled LANGUAGES CXX)
 
+set(CMAKE_PREFIX_PATH "/home/emre/Qt/6.9.0/gcc_64/lib/cmake")
+
 find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets)
 
 qt_standard_project_setup()
