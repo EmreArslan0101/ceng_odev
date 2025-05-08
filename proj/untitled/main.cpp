@@ -1,3 +1,7 @@
+/**
+    @author Emre ARSLAN
+*/
+
 #include "mainwindow.h"
 
 #include <QApplication>

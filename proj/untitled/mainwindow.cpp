@@ -1,3 +1,7 @@
+/**
+    @author Emre ARSLAN
+*/
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
