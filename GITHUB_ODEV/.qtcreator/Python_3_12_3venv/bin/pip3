@@ -1,4 +1,4 @@
-#!/home/emre/Desktop/ceng_odev/GITHUB_ODEV/.qtcreator/Python_3_12_3venv/bin/python3.12
+#!/home/emre/Desktop/ceng_odev/GITHUB_ODEV/.qtcreator/Python_3_12_3venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
