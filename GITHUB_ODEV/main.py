@@ -4,6 +4,7 @@ from PySide6.QtWidgets import QApplication, QMainWindow
 from mainui import Ui_MainWindow 
 
 class MainApp(QMainWindow):
+    
     def __init__(self):
         super().__init__()
         self.ui = Ui_MainWindow()
